@@ -63,4 +63,4 @@ This project analyzes sales data from Unicorn, a family-owned e-commerce platfor
 
 ---
 
-**Author:** Zohreh Shariati — November 2024
+**Author:** Zohreh Shariati — June 2024
